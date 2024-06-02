@@ -1,6 +1,7 @@
 name: auto_sync_fork
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: 15 21 */1 * *
 
