@@ -15,6 +15,9 @@ feeds/luci/modules/luci-mod-status/root/usr/share/rpcd/acl.d/luci-mod-status.jso
 10_system.js/luci-mod-status.json  add nss load info at luci status summary page
 
 
+feeds/luci/modules/luci-mod-system/htdocs/luci-static/resources/view/system/flash.js
+
+flash.js disable online restore
 
 feeds/luci/modules/luci-mod-system/htdocs/luci-static/resources/view/system/system.js
 
